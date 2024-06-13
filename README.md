@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sopvia
 - 👀 I’m interested in everything tech related
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python, Java and GDScript
 
 <!---
 Sopvia/Sopvia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
