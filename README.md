@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sopvia
-- 👀 I’m interested in everything tech related
-- 🌱 I’m currently learning Python (Django) and C#
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Python Flask and Go
 
 <!---
 Sopvia/Sopvia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
